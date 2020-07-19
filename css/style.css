@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0;}
+div {
+	min-height: 200px;
+	background: #4267B2;
+	text-align: center;
+}
+h1 {
+	font-size: 60px;
+	padding: 50px;
+}
